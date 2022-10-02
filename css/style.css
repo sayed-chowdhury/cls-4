@@ -1,0 +1,44 @@
+
+h1{
+    font-size: 100px;
+    text-align: center;
+    text-shadow: 15px -5px 4px red,
+                -25px -5px 4px green;
+}
+div{
+    font-family: 'Pacifico', cursive;
+}
+
+#thefirstid{
+    text-align: justify;
+    text-align-last: justify;
+    text-transform: capitalize;
+    color: #f93e02;
+    background-color: #f9f102;
+}
+
+#the1stid{
+    line-height: 80px;
+    text-decoration: line-through;
+    text-transform: uppercase;
+}
+
+#the2ndid{
+    text-decoration: underline;
+    width: 70%;
+}
+
+.the1stclass{
+    letter-spacing: 3px;
+    text-indent: 100px;
+}
+
+.the2ndclass{
+    color:aqua;
+    background-color: gray;
+}
+
+.the3rdclass{
+    font-size: 30px;
+    word-spacing: 30px;
+}
